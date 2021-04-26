@@ -1,4 +1,4 @@
-# Data_Scientist_Projet_2
+# Librairies data science
 <ul>
 <li>Maîtriser les opérations fondamentales du langage Python pour la Data Science
 <li>Mettre en place un environnement Python
